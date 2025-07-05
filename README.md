@@ -1,6 +1,6 @@
 # Expo-App
 
-[# ♻ EcoScrap Pickup Platform
+# ♻ EcoScrap Pickup Platform
 
 A dual React Native application designed for *smart scrap pickup management, including a **Customer App* and a *Partner App*. The platform streamlines the process of scheduling, tracking, and completing scrap pickups with a clean UI/UX and mock backend integration.
 
@@ -89,7 +89,7 @@ EcoScrap-Pickup-Platform/ ├── customer-app/ │   ├── screens/ │  
 
 > For both apps (customer-app and partner-app), follow the same steps:
 
-```bash
+`bash
 # Install dependencies
 npm install
 
